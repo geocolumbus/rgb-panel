@@ -1,0 +1,8 @@
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/CMakeFiles/rgb_panel-burn.dir
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/CMakeFiles/upload.dir
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/CMakeFiles/rgb_panel-size.dir
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/CMakeFiles/rgb_panel.dir
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/CMakeFiles/rgb_panel-upload.dir
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/CMakeFiles/mega_CORE.dir

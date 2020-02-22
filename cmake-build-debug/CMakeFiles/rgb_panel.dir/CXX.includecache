@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/rgb_panel_rgb_panel.ino.cpp
+Arduino.h
+-
+libraries/Adafruit_GFX/Adafruit_GFX.h
+-
+libraries/RGBmatrixPanel/RGBmatrixPanel.h
+-
+Arduino.h
+/Users/georgecampbell/arduino/rgb-panel/cmake-build-debug/Arduino.h
+
